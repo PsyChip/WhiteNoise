@@ -2,7 +2,7 @@ program synth;
 
 uses
   Windows,
-  Bass in 'bass.pas';
+  Bass in '../bass.pas';
 
 const
   PI = 3.14159265358979323846;
